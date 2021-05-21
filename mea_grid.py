@@ -1,7 +1,6 @@
 from PyQt5.QtWidgets import QWidget, QTableWidget, QTableWidgetItem
 import PyQt5.QtCore as QtCore
 import PyQt5.QtWidgets as QtWidgets
-import numpy as np
 
 
 button_style = """
